@@ -99,6 +99,7 @@ PLATFORMS
 
 DEPENDENCIES
   dashing
+  json
   sinatra_cyclist
   twitter (>= 5.9.0)
 
