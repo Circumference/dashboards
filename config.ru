@@ -1,4 +1,4 @@
-require 'sinatra/cyclist'
+require "sinatra/cyclist"
 require 'dashing'
 
 configure do
