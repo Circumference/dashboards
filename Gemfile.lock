@@ -101,6 +101,7 @@ PLATFORMS
 DEPENDENCIES
   chronic
   dashing
+  json
   sinatra_cyclist
   twitter (>= 5.9.0)
 
